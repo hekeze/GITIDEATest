@@ -1,0 +1,2 @@
+# GITIDEATest
+在IDEA上測試GIT使用
